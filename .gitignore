@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.db
+*.log
+appsettings.json
+appsettings.Development.json
+.env
+
+# Browser session and personal data
+playwright-session/
+applications.json
+Ty Taylor-Resume.pdf
